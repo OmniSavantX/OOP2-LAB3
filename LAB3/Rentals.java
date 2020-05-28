@@ -87,7 +87,7 @@ public class Rentals extends Application {
         gridPane.getStyleClass().addAll("pane","grid");
 
         //Setting title to the stage
-        stage.setTitle("Customers");
+        stage.setTitle("Rentals");
 
         //Adding scene to the stage
         stage.setScene(scene);
