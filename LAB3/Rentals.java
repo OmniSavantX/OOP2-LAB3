@@ -42,7 +42,7 @@ public class Rentals extends Application {
         comboBox5.setMinSize(300,30);
 
         //Adding Buttons
-        Button button1 = new Button("Save Movie");
+        Button button1 = new Button("Save Rental");
         button1.setMinSize(300,30);
         Button button2 = new Button("Return Movie");
         button2.setMinSize(300,30);
